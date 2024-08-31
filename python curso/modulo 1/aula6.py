@@ -1,0 +1,1 @@
+print(int('1'), type(int('1')))
