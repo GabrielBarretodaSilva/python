@@ -1,0 +1,185 @@
+{
+  "main": {
+    "id": "e490061b2b1c3f47",
+    "type": "split",
+    "children": [
+      {
+        "id": "9227aea9ff15dc2f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fd972f0f5dd6a0ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MODULO 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MODULO 1"
+            }
+          }
+        ]
+      },
+      {
+        "id": "dc4a4685febf00ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d7542709fe630195",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2907df6b9d874367",
+    "type": "split",
+    "children": [
+      {
+        "id": "6ab1c2db9527475a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a0501a48b4aa4d17",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "4dac8bae629d13b2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "31515753257029f2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5a818cd3c516303e",
+    "type": "split",
+    "children": [
+      {
+        "id": "904ffe995109df5f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "023f96dcd226c0b4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "MODULO 1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for MODULO 1"
+            }
+          },
+          {
+            "id": "d6f5ff885e01b1c1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "MODULO 1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from MODULO 1"
+            }
+          },
+          {
+            "id": "b53fd6f31a977ead",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c2e6f475a2477e07",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "MODULO 1.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of MODULO 1"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "fd972f0f5dd6a0ca",
+  "lastOpenFiles": [
+    "MODULO 1.md"
+  ]
+}

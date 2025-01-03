@@ -1,2 +1,4 @@
-nome = 'Gabriel'
-print(nome) # Gabriel
+macaco = ['bonobo', 'gorila', 'babuino']
+
+for x in macaco:
+    print(x)
